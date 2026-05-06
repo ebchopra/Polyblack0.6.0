@@ -106,8 +106,8 @@
 
           <!-- B midline divider — separate element so stroke-width is independently controlled -->
           <line
-             x1="121.442" y1="21.310" x2="138.184" y2="21.310"
-             style="stroke:#112052;stroke-width:1.40413;fill:none;stroke-opacity:1" />
+             x1="119.442" y1="21.310" x2="138.184" y2="21.310"
+             style="stroke:#112052;stroke-width:1.6;fill:none;stroke-opacity:1" />
 
         </g>
       </g>
