@@ -4296,7 +4296,7 @@
                 ir: "Iran",
                 iq: "Iraq",
                 ie: "Ireland",
-                il: "The Jewish State of Isreal (Netanyahu crib)",
+                il: "The Jewish State of Israel (Netanyahu crib)",
                 it: "Italy",
                 jm: "Jamaica",
                 jp: "Japan",
