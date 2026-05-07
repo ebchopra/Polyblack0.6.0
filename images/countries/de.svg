@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-de" viewBox="0 0 640 480">
-  <path fill="#fc0" d="M0 320h640v160H0z"/>
-  <path fill="#000001" d="M0 0h640v160H0z"/>
-  <path fill="red" d="M0 160h640v160H0z"/>
+<svg version="1.1" viewBox="0 0 800.9603841536615 480" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" style="max-height: 500px" width="800.9603841536615" height="480">
+<g id="surface1">
+<rect style="fill:rgb(86.666667%,0%,0%);fill-opacity:1;stroke:none;" height="480" width="800" y="0" x="0"/>
+<path d="M 580 240 C 580 140.589844 499.410156 60 400 60 C 300.589844 60 220 140.589844 220 240 C 220 339.410156 300.589844 420 400 420 C 499.410156 420 580 339.410156 580 240 Z M 580 240" style="stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;"/>
+<path transform="matrix(5.656854,5.656854,-5.656854,5.656854,400,240)" d="M -12.000099 -14.999779 L -12.000099 -0.000000000000005329 L 12.000099 0 L 12.000099 14.999779 M -14.999779 12.000099 L 0 12.000099 L 0 -12.000099 L 14.999779 -12.000099" style="fill:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;"/>
+</g>
 </svg>
