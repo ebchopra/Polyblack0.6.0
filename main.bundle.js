@@ -4338,7 +4338,7 @@
                 nl: "Netherlands",
                 nz: "New Zealand",
                 ni: "Nicaragua",
-                ne: "Niger",
+                ne: "Ni**er",
                 ng: "Nigeria",
                 mk: "North Macedonia",
                 no: "Norway",
