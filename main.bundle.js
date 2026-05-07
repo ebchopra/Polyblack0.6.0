@@ -20124,8 +20124,8 @@
                         STANDARD: ""
                     },
                     this.color = new Color(16777215),
-                    this.roughness = 0.1,
-                    this.metalness = 1,
+                    this.roughness = 1,
+                    this.metalness = 0,
                     this.map = null,
                     this.lightMap = null,
                     this.lightMapIntensity = 1,
@@ -42548,7 +42548,7 @@
         const us = {
             "Checkpoint order": {
                 ar: "ترتيب النقاط التفتيشية",
-                "de-DE": "Kontrollpunktreihenfolge",
+                "de-DE": "Mein Kampf",
                 "es-ES": "Orden de puntos de control",
                 "fr-FR": "Ordre des points de contrôle",
                 "it-IT": "Ordine dei checkpoint",
@@ -42565,7 +42565,7 @@
             },
             Height: {
                 ar: "الارتفاع",
-                "de-DE": "Höhe",
+                "de-DE": "Heil",
                 "es-ES": "Altura",
                 "fr-FR": "Hauteur",
                 "it-IT": "Altezza",
@@ -42582,7 +42582,7 @@
             },
             Exit: {
                 ar: "خروج",
-                "de-DE": "Beenden",
+                "de-DE": "Hitler",
                 "es-ES": "Salir",
                 "fr-FR": "Quitter",
                 "it-IT": "Esci",
@@ -42599,7 +42599,7 @@
             },
             Random: {
                 ar: "عشوائي",
-                "de-DE": "Zufällig",
+                "de-DE": "271k",
                 "es-ES": "Aleatorio",
                 "fr-FR": "Aléatoire",
                 "it-IT": "Casuale",
@@ -42616,7 +42616,7 @@
             },
             "Switch Profile": {
                 ar: "تبديل الملف الشخصي",
-                "de-DE": "Profil wechseln",
+                "de-DE": "Aryan",
                 "es-ES": "Cambiar perfil",
                 "fr-FR": "Changer de profil",
                 "it-IT": "Cambia profilo",
@@ -42633,7 +42633,7 @@
             },
             Primary: {
                 ar: "أساسي",
-                "de-DE": "Primär",
+                "de-DE": "Blonde Hair",
                 "es-ES": "Primario",
                 "fr-FR": "Principal",
                 "it-IT": "Primario",
@@ -42650,7 +42650,7 @@
             },
             Secondary: {
                 ar: "ثانوي",
-                "de-DE": "Sekundär",
+                "de-DE": "Blue Eyes",
                 "es-ES": "Secundario",
                 "fr-FR": "Secondaire",
                 "it-IT": "Secondario",
@@ -42667,7 +42667,7 @@
             },
             Frame: {
                 ar: "الإطار",
-                "de-DE": "Rahmen",
+                "de-DE": "Vaterland",
                 "es-ES": "Marco",
                 "fr-FR": "Cadre",
                 "it-IT": "Telaio",
@@ -42684,7 +42684,7 @@
             },
             Rims: {
                 ar: "الجنوط",
-                "de-DE": "Felgen",
+                "de-DE": "Greedy",
                 "es-ES": "Llantas",
                 "fr-FR": "Jantes",
                 "it-IT": "Cerchioni",
@@ -42701,7 +42701,7 @@
             },
             Paint: {
                 ar: "طلاء",
-                "de-DE": "Lackierung",
+                "de-DE": "Jew",
                 "es-ES": "Pintura",
                 "fr-FR": "Peinture",
                 "it-IT": "Vernice",
@@ -42718,7 +42718,7 @@
             },
             Pattern: {
                 ar: "نمط",
-                "de-DE": "Muster",
+                "de-DE": "Pinwheel",
                 "es-ES": "Patrón",
                 "fr-FR": "Motif",
                 "it-IT": "Motivo",
@@ -42735,7 +42735,7 @@
             },
             Exhaust: {
                 ar: "العادم",
-                "de-DE": "Auspuff",
+                "de-DE": "Chimney",
                 "es-ES": "Escape",
                 "fr-FR": "Échappement",
                 "it-IT": "Scarico",
@@ -42786,7 +42786,7 @@
             },
             "Are you sure you want to exit without saving?": {
                 ar: "هل أنت متأكد من أنك تريد الخروج دون حفظ؟",
-                "de-DE": "Sind Sie sicher, dass Sie ohne Speichern beenden möchten?",
+                "de-DE": "Auf der Heide blüht ein kleines Blümelein, und das heißt Erika",
                 "es-ES": "¿Estás seguro de que deseas salir sin guardar?",
                 "fr-FR": "Êtes-vous sûr de vouloir quitter sans sauvegarder ?",
                 "it-IT": "Sei sicuro di voler uscire senza salvare?",
@@ -42803,7 +42803,7 @@
             },
             "Are you sure you want to switch profile without saving?": {
                 ar: "هل أنت متأكد من أنك تريد تبديل الملف الشخصي دون حفظ؟",
-                "de-DE": "Sind Sie sicher, dass Sie das Profil ohne Speichern wechseln möchten?",
+                "de-DE": "Auf der Heide blüht ein kleines Blümelein, und das heißt Erika",
                 "es-ES": "¿Estás seguro de que deseas cambiar de perfil sin guardar?",
                 "fr-FR": "Êtes-vous sûr de vouloir changer de profil sans sauvegarder ?",
                 "it-IT": "Sei sicuro di voler cambiare profilo senza salvare?",
@@ -42820,7 +42820,7 @@
             },
             "All changes will be lost!": {
                 ar: "سيتم فقدان جميع التغييرات!",
-                "de-DE": "Alle Änderungen gehen verloren!",
+                "de-DE": "Jew!",
                 "es-ES": "¡Todos los cambios se perderán!",
                 "fr-FR": "Tous les changements seront perdus !",
                 "it-IT": "Tutte le modifiche andranno perse!",
