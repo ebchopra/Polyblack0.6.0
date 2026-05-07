@@ -36045,7 +36045,7 @@
                             e.metalness.value = t.metalness,
                             t.metalnessMap && (e.metalnessMap.value = t.metalnessMap,
                             n(t.metalnessMap, e.metalnessMapTransform));
-                            e.roughness.value = 0.1,
+                            e.roughness.value = t.roughness,
                             t.roughnessMap && (e.roughnessMap.value = t.roughnessMap,
                             n(t.roughnessMap, e.roughnessMapTransform));
                             t.envMap && (e.envMapIntensity.value = t.envMapIntensity)
@@ -36058,8 +36058,8 @@
                             n(t.sheenColorMap, e.sheenColorMapTransform)),
                             t.sheenRoughnessMap && (e.sheenRoughnessMap.value = t.sheenRoughnessMap,
                             n(t.sheenRoughnessMap, e.sheenRoughnessMapTransform)));
-                            t.clearcoat > 0 && (e.clearcoat.value = t.clearcoat,
-                            e.clearcoatRoughness.value = t.clearcoatRoughness,
+                            t.clearcoat > 0 && (e.clearcoat.value = 1.0,
+                            e.clearcoatRoughness.value = 0.05,
                             t.clearcoatMap && (e.clearcoatMap.value = t.clearcoatMap,
                             n(t.clearcoatMap, e.clearcoatMapTransform)),
                             t.clearcoatRoughnessMap && (e.clearcoatRoughnessMap.value = t.clearcoatRoughnessMap,
