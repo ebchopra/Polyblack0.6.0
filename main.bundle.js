@@ -4214,7 +4214,7 @@
                 j: () => r
             });
             const i = {
-                af: "Afghanistan",
+                af: "Afaghafistan",
                 al: "Albania",
                 dz: "Algeria",
                 ad: "Andorra",
@@ -4394,7 +4394,7 @@
                 tm: "Turkmenistan",
                 tv: "Tuvalu",
                 ug: "Uganda",
-                ua: "Ukraine",
+                ua: "Also Russia",
                 ae: "United Arab Emirates",
                 gb: "United Kingdom of Great Britain and Northern Ireland",
                 tz: "United Republic of Tanzania",
