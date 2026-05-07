@@ -20124,8 +20124,8 @@
                         STANDARD: ""
                     },
                     this.color = new Color(16777215),
-                    this.roughness = 1,
-                    this.metalness = 0,
+                    this.roughness = 0.1,
+                    this.metalness = 1,
                     this.map = null,
                     this.lightMap = null,
                     this.lightMapIntensity = 1,
