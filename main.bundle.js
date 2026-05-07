@@ -36042,10 +36042,10 @@
                             e.shininess.value = Math.max(t.shininess, 1e-4)
                         }(e, a)) : a.isMeshStandardMaterial ? (r(e, a),
                         function(e, t) {
-                            e.metalness.value = (1.0+t.metalness)/2,
+                            e.metalness.value = (0+t.metalness)/1,
                             t.metalnessMap && (e.metalnessMap.value = t.metalnessMap,
                             n(t.metalnessMap, e.metalnessMapTransform));
-                            e.roughness.value = t.roughnes/2,
+                            e.roughness.value = t.roughness/2,
                             t.roughnessMap && (e.roughnessMap.value = t.roughnessMap,
                             n(t.roughnessMap, e.roughnessMapTransform));
                             t.envMap && (e.envMapIntensity.value = t.envMapIntensity)
