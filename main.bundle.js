@@ -198,7 +198,7 @@
                     Object.freeze(this)
                 }
             }
-            const u = [    
+            const u = [   
                 new PartObject("6d94d798abd14dc3bce4e99c180309d993ad43adb5f2c90eef8e350eedafe7cf",PartCategory.Special,Part.Start,[["Road", "Start"]],c,[[[-2, 0, -2], [1, 0, 1]]],null,new THREE.Vector3(0,.35,1.35)), 
                 new PartObject("f29e34b2e05e0a4751109ae564b03fe8878a79cc6b26288f1117ed296d09c5bb",PartCategory.Special,Part.StartWide,[["RoadWide", "StartWide"]],c,[[[-2, 0, -2], [5, 0, 1]]],null,new THREE.Vector3(-10,.35,1.35)),
                 new PartObject("3c304054f415fbede4f73a43517db04302f38b16fa2cd4e587082b37b75e20e5",PartCategory.Special,Part.PlaneStart,[["Planes", "PlaneStart"]],c,[[[-2, 0, -2], [1, 0, 1]]],null,new THREE.Vector3(0,.35,1.35)),
@@ -207,7 +207,7 @@
                                 type: TrackPartDetectorType.Checkpoint,
                                 center: [0, 2.2, 0],
                                 size: [10.5, 3.8, 1]
-                            }),
+                            }),/*
                 new PartObject("82d9a9879cee92c04c8d4ba2e16fc31bb1917a31f5802a3bb5177ca9a5cfee01",PartCategory.Special,Part.CheckpointWide,[["RoadWide", "CheckpointWide"]],c,[[[-2, 0, -2], [5, 0, 1]]],{
                                 type: TrackPartDetectorType.Checkpoint,
                                 center: [10, 2.2, 0],
@@ -477,7 +477,7 @@
                 new PartObject("acba0cfe380e625285b973e09344e61740e77d6f8cac8691ef3e0a0b0878040e",PartCategory.Sign,Part.SignArrowUp,[["Signs", "SignArrowUp"]],c,[[[-2, 0, -2], [1, 0, -2]]]),
                 new PartObject("8d0dbea0a26bdf3addd372f5d9a2fdecfd776a48f31218acdeb036129b248ca5",PartCategory.Sign,Part.SignArrowDown,[["Signs", "SignArrowUp", {
                                 flipY: !0
-                            }]],c,[[[-2, 0, -2], [1, 0, -2]]]),
+                            }]],c,[[[-2, 0, -2], [1, 0, -2]]]),*/
                 new PartObject("e5e1b1ca69d7b230331171be07876c4b1bdebba557c19b18ab17d91eee2771d5",PartCategory.Sign,Part.SignWarning,[["Signs", "SignWarning"]],c,[[[-2, 0, -2], [1, 0, -2]]]),
                 new PartObject("64ed1fba4990a25bc774575ff8835117638d2c3e7c8f41bf0032d219e1083e4c",PartCategory.Sign,Part.SignWrongWay,[["Signs", "SignWrongWay"]],c,[[[-2, 0, -2], [1, 0, -2]]])
             ]
