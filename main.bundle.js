@@ -207,7 +207,7 @@
                                 type: TrackPartDetectorType.Checkpoint,
                                 center: [0, 2.2, 0],
                                 size: [10.5, 3.8, 1]
-                            }),/*
+                            }),
                 new PartObject("82d9a9879cee92c04c8d4ba2e16fc31bb1917a31f5802a3bb5177ca9a5cfee01",PartCategory.Special,Part.CheckpointWide,[["RoadWide", "CheckpointWide"]],c,[[[-2, 0, -2], [5, 0, 1]]],{
                                 type: TrackPartDetectorType.Checkpoint,
                                 center: [10, 2.2, 0],
@@ -436,6 +436,7 @@
                 new PartObject("786b8ff7fcb72c67e7b887a78fa7b823c48575ae1e4d3b48ae13620646ac34a7",PartCategory.WallTrack,Part.WallTrackTopInnerCorner,[["WallTrack", "WallTrackBottomInnerCorner", {
                                 flipY: !0
                             }]],c,[[[-2, 3, -1], [1, 3, 1]], [[-1, 3, -2], [1, 3, -2]], [[-2, 2, -2], [-1, 2, -1]], [[-2, 0, -2], [-2, 1, -2]]]),
+                            /*
                 new PartObject("16c9c8ece47c097f60cfc7f8a2daa2f0e7ad0befb0ebfd185402013fd1ec8e0f",PartCategory.WallTrack,Part.WallTrackInnerCorner,[["WallTrack", "WallTrackInnerCorner"]],c,[[[-2, 0, -2], [-2, 0, -2]]]),
                 new PartObject("413dcb45de9fdaf4fe8b78804feaa80891053063a5c432c09b50c24201166572",PartCategory.WallTrack,Part.WallTrackBottomInnerCorner,[["WallTrack", "WallTrackBottomInnerCorner"]],c,[[[-2, 0, -1], [1, 0, 1]], [[-1, 0, -2], [1, 0, -2]], [[-2, 1, -2], [-1, 1, -1]], [[-2, 2, -2], [-2, 3, -2]]]),
                 new PartObject("8b7023471502607ef19109760bee3b954ea3b3883c32f3960f75c6651c912ffd",PartCategory.WallTrack,Part.WallTrackFloor,[["WallTrack", "WallTrackFloor"]],c,[[[-2, 0, -2], [1, 0, 1]]]),
@@ -469,7 +470,7 @@
                 new PartObject("836bfd12791bfebd99aba70531da4c9bd6e332d16c1e120a8888ea54f59456f9",PartCategory.Pillar,Part.PillarBranch5,[["Pillar", "PillarBranch5"]],c,[[[-2, 0, -1], [1, 0, 0]]]),
                 new PartObject("ab85228116faf9ae7b1e6cb4a03530cbec808df3d3c1d7883eb41eb7cfe231d7",PartCategory.Pillar,Part.PillarBranch5Top,[["Pillar", "PillarBranch5Top"]],c,[[[-2, 0, -1], [1, 0, 0]]]),
                 new PartObject("db93d5cea4e523fd67a56f8d928084ab6355331a8e5d1899115c1841866006bb",PartCategory.Pillar,Part.PillarBranch5Middle,[["Pillar", "PillarBranch5Middle"]],c,[[[-2, 0, -1], [1, 0, 0]]]),
-                new PartObject("dd793efa234159e3a0ff28b064ecb715e6c8bb76e06acfe4bd0d9a2f2b9bba88",PartCategory.Pillar,Part.PillarBranch5Bottom,[["Pillar", "PillarBranch5Bottom"]],c,[[[-2, 0, -1], [1, 0, 0]]]),
+                new PartObject("dd793efa234159e3a0ff28b064ecb715e6c8bb76e06acfe4bd0d9a2f2b9bba88",PartCategory.Pillar,Part.PillarBranch5Bottom,[["Pillar", "PillarBranch5Bottom"]],c,[[[-2, 0, -1], [1, 0, 0]]]),*/
                 new PartObject("350f7d3591ffd0b2cfb8204d1c6cd0022fd3bda81ea7e950fce3abea7ec89e1a",PartCategory.Sign,Part.SignArrowLeft,[["Signs", "SignArrowRight", {
                                 flipX: !0
                             }]],c,[[[-2, 0, -2], [1, 0, -2]]]),
@@ -477,7 +478,7 @@
                 new PartObject("acba0cfe380e625285b973e09344e61740e77d6f8cac8691ef3e0a0b0878040e",PartCategory.Sign,Part.SignArrowUp,[["Signs", "SignArrowUp"]],c,[[[-2, 0, -2], [1, 0, -2]]]),
                 new PartObject("8d0dbea0a26bdf3addd372f5d9a2fdecfd776a48f31218acdeb036129b248ca5",PartCategory.Sign,Part.SignArrowDown,[["Signs", "SignArrowUp", {
                                 flipY: !0
-                            }]],c,[[[-2, 0, -2], [1, 0, -2]]]),*/
+                            }]],c,[[[-2, 0, -2], [1, 0, -2]]]),
                 new PartObject("e5e1b1ca69d7b230331171be07876c4b1bdebba557c19b18ab17d91eee2771d5",PartCategory.Sign,Part.SignWarning,[["Signs", "SignWarning"]],c,[[[-2, 0, -2], [1, 0, -2]]]),
                 new PartObject("64ed1fba4990a25bc774575ff8835117638d2c3e7c8f41bf0032d219e1083e4c",PartCategory.Sign,Part.SignWrongWay,[["Signs", "SignWrongWay"]],c,[[[-2, 0, -2], [1, 0, -2]]])
             ]
