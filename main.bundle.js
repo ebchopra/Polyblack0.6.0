@@ -51451,7 +51451,7 @@
             const n = document.createElement("a");
             n.href = "https://opengameart.org/content/sci-fi-theme-1",
             n.target = "_blank",
-            n.textContent = 'OpenGameArt.org "Sci-fi Theme" by Maou (CC-BY 4.0)',
+            n.textContent = 'audio.com "We Are Charlie Kirk Orchestral Version" by bankaka (CC-BY 4.0)',
             C.get(this, Mc, "f").appendChild(n)
         }
         ,
