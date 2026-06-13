@@ -8461,9 +8461,9 @@
                     if (null != t && null != l.get(this, O, "f").context) {
                         const n = l.get(this, O, "f").context.createBufferSource();
                         n.buffer = t,
-                        n.playbackRate.value = .1 + .15 * Math.min(e / 4e3, 1);
+                        n.playbackRate.value = .1 + .18 * Math.min(e / 8e3, 1);
                         const i = l.get(this, O, "f").context.createGain();
-                        i.gain.value = Math.max(.3, Math.min(e / 4e3, 1)) / 2.5,
+                        i.gain.value = Math.max(.3, Math.min(e / 8e3, 1)) / 2.5,
                         n.connect(i),
                         i.connect(l.get(this, Q, "f")),
                         n.start(0)
